@@ -6,6 +6,7 @@
 
 a.btn-primary, a.btn-primary:hover, a.btn-primary:active, a.btn-primary:visited {
     background-color: #00A2C7 !important; color:#fff !important;
+	border-color:#00A2C7;
 }
 
 a.btn-info, a.btn-info:hover, a.btn-info:active, a.btn-info:visited {

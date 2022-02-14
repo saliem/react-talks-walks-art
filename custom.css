@@ -4,6 +4,10 @@
 .cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; }
 .permanent-marker {font-family: 'Permanent Marker', cursive; color:#1B140E;}
 
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #00A2C7 !important;
+}
+
 .mt-3 {
   margin-top: 3rem!important;
 }

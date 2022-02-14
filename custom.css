@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Merriweather+Sans:ital,wght@1,700&family=Permanent+Marker&display=swap');
 		
 .logo-font {font-family: 'Merriweather Sans', san-serif; width:255px; }
-.cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; }
+.cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; font-size:180%; }
 .permanent-marker {font-family: 'Permanent Marker', cursive; color:#1B140E;}
 
 a.btn-primary, a.btn-primary:hover, a.btn-primary:active, a.btn-primary:visited {

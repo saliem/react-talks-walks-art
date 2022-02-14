@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Merriweather+Sans:ital,wght@1,700&display=swap');
 		
 .logo-font {font-family: 'Merriweather Sans', san-serif; width:255px; }
+.cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; }
 
 .mt-3 {
   margin-top: 3rem!important;

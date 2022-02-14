@@ -41,7 +41,7 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: #B6D3DA);
+  border-bottom-color: #84D2E4);
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -49,6 +49,6 @@ body {
 }
 
 .nav-masthead .active {
-  color: #B6D3DA;
-  border-bottom-color: #B6D3DA;
+  color: #84D2E4;
+  border-bottom-color: #84D2E4;
 }

@@ -33,3 +33,7 @@ ul.nav li a:hover, ul.nav li a:active {
 ul.nav li.active a {
     color: #02A3C8 !important;
 }
+
+footer {
+	font-size:90%;
+}

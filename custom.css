@@ -13,11 +13,12 @@
 
 
 .breadcrumbs a, .breadcrumbs a:active, .breadcrumbs:visited {
-	color: #ACBDD5; !important
+	color: #ACBDD5; 
+	font-size:90%;
 }
 
 .breadcrumbs a:hover {
-	color: #6F97CF; !important
+	color: #6F97CF; 
 }
 
 a.btn-primary, a.btn-primary:hover, a.btn-primary:active, a.btn-primary:visited {

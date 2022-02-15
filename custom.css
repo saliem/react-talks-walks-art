@@ -14,6 +14,9 @@ a.btn-info, a.btn-info:hover, a.btn-info:active, a.btn-info:visited {
 	color:#fff !important;
 }
 h3 a, h4 a, h5 a {color:#00A2C7 !important}
+h3 a:hover, h4 a:hover, h5 a:hover {color:#5C9DAD !important}
+
+a.cursive:hover {color:#D15751 !important}
 
 .mt-3 {
   margin-top: 3rem!important;

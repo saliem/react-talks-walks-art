@@ -37,3 +37,7 @@ ul.nav li.active a {
 footer {
 	font-size:90%;
 }
+
+footer a {
+	color:#B6AEA0;
+}

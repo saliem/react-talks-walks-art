@@ -3,7 +3,8 @@
 
 .material-icons {
     color: #B6D3DA !important; 
-    margin-top: 5px !important;
+    margin-top: 3px !important;
+    font-size: 18px !important;
 }
 
 .logo-font {font-family: 'Merriweather Sans', san-serif; width:255px; }

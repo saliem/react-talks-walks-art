@@ -12,7 +12,7 @@ a.btn-primary, a.btn-primary:hover, a.btn-primary:active, a.btn-primary:visited 
 a.btn-info, a.btn-info:hover, a.btn-info:active, a.btn-info:visited {
 	color:#fff !important;
 }
-h3 a {color:#00A2C7 !important}
+h3 a, h4 a, h5 a {color:#00A2C7 !important}
 
 .mt-3 {
   margin-top: 3rem!important;

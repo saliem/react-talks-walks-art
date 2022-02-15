@@ -45,3 +45,5 @@ footer {
 footer a {
 	color:#B6AEA0;
 }
+
+footer a:hover { color:#9D9380 }

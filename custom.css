@@ -12,7 +12,7 @@
 .permanent-marker {font-family: 'Permanent Marker', cursive; color:#1B140E;}
 
 a, a:active, a:visited, a:hover {
-	color: #39b6d3 !important;
+	color: #39b6d3;
 }
 
 .breadcrumbs a, .breadcrumbs a:active, .breadcrumbs a:visited {

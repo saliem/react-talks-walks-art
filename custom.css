@@ -11,8 +11,11 @@
 .cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; font-size:180%; }
 .permanent-marker {font-family: 'Permanent Marker', cursive; color:#1B140E;}
 
+a, a:active, a:visited, a:hover {
+	color: #39b6d3 !important;
+}
 
-.breadcrumbs a, .breadcrumbs a:active, .breadcrumbs:visited {
+.breadcrumbs a, .breadcrumbs a:active, .breadcrumbs a:visited {
 	color: #ACBDD5; 
 	font-size:90%;
 }

@@ -7,9 +7,16 @@
     font-size: 28px !important;
 }
 
+
 @media screen and (max-width: 487px) {
   .logo {
     background-image: url("atw-logo-small.jpg") !important; 
+  }
+}
+
+@media screen and (min-width: 487px) and (max-width: 1079px) {
+  .logo {
+    background-image: url("art-talks-walks-logo.jpg") !important;
   }
 }
 

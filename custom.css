@@ -20,6 +20,10 @@
   }
 }
 
+.blockquote {
+	font-size: 1rem !important;
+}
+
 .logo-font {font-family: 'Merriweather Sans', san-serif; width:255px; }
 .cursive {font-family: 'Cedarville Cursive', cursive; color:#F65858; font-size:180%; }
 .permanent-marker {font-family: 'Permanent Marker', cursive; color:#1B140E;}
